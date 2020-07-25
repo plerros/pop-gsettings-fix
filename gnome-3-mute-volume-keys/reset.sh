@@ -8,3 +8,5 @@ gsettings reset org.gnome.settings-daemon.plugins.media-keys volume-mute-static
 
 gsettings reset org.gnome.settings-daemon.plugins.media-keys volume-up-quiet-static
 gsettings reset org.gnome.settings-daemon.plugins.media-keys volume-up-static
+
+echo "Please reboot the computer for changes to take place."

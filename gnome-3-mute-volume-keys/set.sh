@@ -9,4 +9,4 @@ gsettings set org.gnome.settings-daemon.plugins.media-keys volume-mute-static "[
 gsettings set org.gnome.settings-daemon.plugins.media-keys volume-up-quiet-static "['XF86AudioRaiseVolume', '<Alt><Ctrl>XF86AudioRaiseVolume']"
 gsettings set org.gnome.settings-daemon.plugins.media-keys volume-up-static "['<Ctrl>XF86AudioRaiseVolume']"
 
-echo "please reboot the computer"
+echo "Please reboot the computer for changes to take place."
