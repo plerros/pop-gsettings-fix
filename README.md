@@ -1,15 +1,14 @@
 # How to run:
-1. Run the script:
 ```
 bash ./set_all.sh
 ```
-2. Reboot your computer: 
 ```
-reboot
+reboot now
 ```
 # Reset changes to default
 ```
 bash ./reset_all.sh
 ```
-reboot
+```
+reboot now
 ```
